@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <p align="center">
   <img src="src/Source Image/Untitled-2.png" alt="Mega Mart Z Logo" width="200"/>
 </p>
