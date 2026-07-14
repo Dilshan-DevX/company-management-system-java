@@ -623,7 +623,3 @@ For any issues or questions regarding the project setup, please:
 <p align="center">
   <sub>© 2025 Mega Mart Z — Company Management System. All rights reserved.</sub>
 </p>
-=======
-# company-management-system-java
-🏢 A multi-module Company Management System built with Java Swing &amp; MySQL featuring HRM, Payroll, Inventory (GRN/Invoice), Accounting, Marketing, Communication Tools &amp; 30+ JasperReports templates.
->>>>>>> 725ba7c64bf05ee1673d8b66a7ac246937147ac0
