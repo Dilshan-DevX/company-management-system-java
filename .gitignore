@@ -1,0 +1,31 @@
+# Compiled class files
+build/
+dist/
+
+# Log files
+*.log
+*.log.*
+*.lck
+
+# Generated reports
+generated_reports/
+default_report.pdf
+
+# Customer Invoices (generated data)
+Customer Invoices/
+
+# NetBeans private config
+nbproject/private/
+
+# IDE files
+.nb-gradle/
+*.swp
+*~
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Database workbench files
+*.mwb
+*.mwb.bak
